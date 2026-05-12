@@ -7,6 +7,21 @@ This project presents an interactive business intelligence dashboard analyzing *
 
 ---
 
+## Database Connection 🗄️
+
+This dashboard connects directly to a live database. Use the credentials below to access the data source:
+
+| Field | Value |
+|---|---|
+| **Host** | 112.213.86.31:3360 |
+| **Database Name** | tvshows |
+| **Login** | marshmallow |
+| **Password** | N3unkNbXQYh33og |
+
+> ⚠️ **Note:** Keep these credentials private and do not share them publicly. Consider using environment variables or a `.env` file if integrating this connection into a script or pipeline.
+
+---
+
 ## Dashboard Features 🖥️
 
 **KPI Cards:**
